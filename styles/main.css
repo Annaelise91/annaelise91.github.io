@@ -1,0 +1,61 @@
+h1,h2 {
+	border-style:solid;
+	border-width:1px;
+	border-color:black;
+}
+
+p {
+	color: blue;
+
+	
+}
+h1 {
+	color: black; 
+	background-color: darksalmon; 
+	text-align: center;
+}
+
+nav{
+
+} 
+
+ul{ 
+	margin: 0 auto;
+	width:max-content;
+}
+
+li{
+	width:max-content;
+}
+
+span {
+	color: blue;
+	text-align: center;
+}
+
+body {
+	background-color: peachpuff;
+	text-align: center;
+	
+}
+div {
+	color: blue;
+	text-align: center;
+}
+
+footer {
+	color: black;
+	background-color: darksalmon;
+	text-align: right;
+}
+
+/* alles met in HTML  class="mooi" */
+.mooi {
+	
+}
+
+/* één item met in HTML   id="VosNL" */
+#VosNL {
+	color: olive;
+	
+}
